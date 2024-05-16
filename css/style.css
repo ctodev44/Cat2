@@ -35,8 +35,8 @@
 
 body {
     text-align: center;
-    cursor: url('/images/fire1.png'), auto;
-    background-image: url('/images/galaxy.jpeg'); /* Replace 'background-image.jpg' with the path to your image */
+    cursor: url('images/fire1.png'), auto;
+    background-image: url('images/galaxy.jpeg'); /* Replace 'background-image.jpg' with the path to your image */
     background-size: cover;
     background-position: center;
     font-family: Comic Sans MS, cursive;
