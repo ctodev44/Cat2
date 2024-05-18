@@ -101,7 +101,9 @@ ul {
 
 @media screen and (max-width: 768px) {
     .line1 {
-        font-size: 12px;
+        font-size: 15px;
+    }
+}
 
 a {
     color: var(--text-color1);
