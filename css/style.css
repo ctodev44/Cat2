@@ -39,7 +39,7 @@ body {
     background-image: url('images/galaxy.jpeg'); /* Replace 'background-image.jpg' with the path to your image */
     background-size: cover;
     background-position: center;
-    font-family: Comic Sans MS, cursive;
+    font-family: Comic Sans MS, Arial, cursive;
     background-color: #000000;
     color: #ccc;
     font-size: 18px;
