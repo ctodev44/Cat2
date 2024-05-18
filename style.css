@@ -97,6 +97,7 @@ ul {
 .line1 {
     margin-bottom: 20px;
     text-align: center;
+    li
 }
 
 a {
@@ -282,5 +283,5 @@ nav ul li {
     position: absolute;
     top: 70px;
     left: 70%;
-    cursor: url('/images/joy.png'), auto;
+    cursor: url('images/joy.png'), auto;
 }
