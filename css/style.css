@@ -183,7 +183,7 @@ nav ul li {
     left: 50%;
     transform: translateX(0%);
     color: rgb(250, 97, 250);
-    font-family: Comic Sans MS, cursive;
+    font-family: Comic Sans MS, Arial, cursive;
     font-size: 200px;
     white-space: nowrap; /* Ensure text doesn't wrap */
     animation: marquee 10s linear infinite;
@@ -200,7 +200,7 @@ nav ul li {
     left: 20%;
     transform: translateX(0);
     color: rgb(34, 255, 166);
-    font-family: Comic Sans MS, cursive;
+    font-family: Comic Sans MS, Arial, Sans-serif;
     white-space: nowrap; /* Ensure text doesn't wrap */
     animation: marquee1 8s linear infinite;
 }
@@ -266,7 +266,7 @@ nav ul li {
     background-color: #1e00ff; /* Yellow background */
     border-radius: 10px; /* Rounded corners */
     padding: 10px;
-    font-family: 'Comic Sans MS', cursive; /* Comic Sans font */
+    font-family: 'Comic Sans MS', Arial, sans-serif; /* Comic Sans font */
     color: #0000ff; /* Blue text */
     font-size: 16px;
 }
@@ -275,7 +275,7 @@ nav ul li {
     background-color: #af03ff; /* Yellow background for media controls */
     color: #ff0000; /* Red color for media controls */
     border-radius: 10px; /* Rounded corners for media controls */
-    font-family: 'Comic Sans MS', cursive; /* Comic Sans font for media controls */
+    font-family: 'Comic Sans MS', Ariel, cursive; /* Comic Sans font for media controls */
 }
 #muteButton {
     position: absolute;
